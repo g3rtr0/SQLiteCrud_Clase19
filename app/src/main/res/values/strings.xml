@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLiteCrud</string>
+    <string name="txt_nombre">Nombre:</string>
+    <string name="txt_apellido">Apellido:</string>
+    <string name="txt_email">Email:</string>
+    <string name="txt_telefono">Télefono:</string>
+    <string name="txt_ciudad">Ciudad:</string>
+    <string name="btn_salir">Salir</string>
+</resources>
